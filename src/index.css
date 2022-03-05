@@ -46,7 +46,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: 'Monaco', Courier, monospace;
 	font-weight: 500;
 	margin: 5px 0;
 	line-height: 1.25;
@@ -323,7 +323,7 @@ textarea {
 }
 
 .page-header {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Monaco', Courier, monospace;
 	font-size: 2.5em;
 	font-weight: 500;
 	margin: 5px 0;

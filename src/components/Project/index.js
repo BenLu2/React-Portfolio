@@ -8,8 +8,6 @@ function Project(props) {
 	const name = currentProject.name;
 	const description = currentProject.description;
 	const image = currentProject.image;
-	const techs = currentProject.technologies;
-	const appLink = currentProject.deployed;
 	const gitLink = currentProject.github;
 
 	return (
@@ -23,7 +21,6 @@ function Project(props) {
 				<Card.Body>
 					<Card.Title className="card-title">{name}</Card.Title>
 					<Card.Text className="card-text">{description}</Card.Text>
-					<br></br>
 					<Card.Link href={gitLink} target="_blank" className="card-link">
 						{name} Github
 					</Card.Link>
