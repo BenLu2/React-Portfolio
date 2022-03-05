@@ -26,7 +26,6 @@ Alternativly, you can visit the github page for the deployment.
 <!-- USAGE EXAMPLES -->
 ## Demo Video
 
-
 [![Watch the video](https://img.youtube.com/vi/JK1S6O34VZo/maxresdefault.jpg)](https://youtu.be/JK1S6O34VZo)
 
 <!-- CONTACT -->
