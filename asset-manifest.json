@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Yudong-Lu-React-Portfolio/static/css/main.65d46c41.chunk.css",
+    "main.js": "/Yudong-Lu-React-Portfolio/static/js/main.9c9e7fe7.chunk.js",
+    "main.js.map": "/Yudong-Lu-React-Portfolio/static/js/main.9c9e7fe7.chunk.js.map",
+    "runtime-main.js": "/Yudong-Lu-React-Portfolio/static/js/runtime-main.bb33495e.js",
+    "runtime-main.js.map": "/Yudong-Lu-React-Portfolio/static/js/runtime-main.bb33495e.js.map",
+    "static/js/2.19456bbd.chunk.js": "/Yudong-Lu-React-Portfolio/static/js/2.19456bbd.chunk.js",
+    "static/js/2.19456bbd.chunk.js.map": "/Yudong-Lu-React-Portfolio/static/js/2.19456bbd.chunk.js.map",
+    "static/js/3.00d36ae2.chunk.js": "/Yudong-Lu-React-Portfolio/static/js/3.00d36ae2.chunk.js",
+    "static/js/3.00d36ae2.chunk.js.map": "/Yudong-Lu-React-Portfolio/static/js/3.00d36ae2.chunk.js.map",
+    "index.html": "/Yudong-Lu-React-Portfolio/index.html",
+    "precache-manifest.bb7f3f9d12cbc6a1fc4cba35ca5eb0f6.js": "/Yudong-Lu-React-Portfolio/precache-manifest.bb7f3f9d12cbc6a1fc4cba35ca5eb0f6.js",
+    "service-worker.js": "/Yudong-Lu-React-Portfolio/service-worker.js",
+    "static/css/main.65d46c41.chunk.css.map": "/Yudong-Lu-React-Portfolio/static/css/main.65d46c41.chunk.css.map",
+    "static/js/2.19456bbd.chunk.js.LICENSE.txt": "/Yudong-Lu-React-Portfolio/static/js/2.19456bbd.chunk.js.LICENSE.txt",
+    "static/media/0001.jpg": "/Yudong-Lu-React-Portfolio/static/media/0001.04113cb3.jpg",
+    "static/media/CRM.png": "/Yudong-Lu-React-Portfolio/static/media/CRM.93658f97.png",
+    "static/media/Picture.jpg": "/Yudong-Lu-React-Portfolio/static/media/Picture.7ecd6786.jpg",
+    "static/media/Tech Blogs.gif": "/Yudong-Lu-React-Portfolio/static/media/Tech Blogs.1dcc9c37.gif",
+    "static/media/Work Day Scheduler.gif": "/Yudong-Lu-React-Portfolio/static/media/Work Day Scheduler.1a3a635e.gif",
+    "static/media/YudongLu Resume.pdf": "/Yudong-Lu-React-Portfolio/static/media/YudongLu Resume.3335a337.pdf",
+    "static/media/campersunited.png": "/Yudong-Lu-React-Portfolio/static/media/campersunited.82b6f1cb.png",
+    "static/media/project1-screenshot.png": "/Yudong-Lu-React-Portfolio/static/media/project1-screenshot.9e0ce547.png",
+    "static/media/social network API.gif": "/Yudong-Lu-React-Portfolio/static/media/social network API.16b5d55d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb33495e.js",
+    "static/js/2.19456bbd.chunk.js",
+    "static/css/main.65d46c41.chunk.css",
+    "static/js/main.9c9e7fe7.chunk.js"
+  ]
+}
