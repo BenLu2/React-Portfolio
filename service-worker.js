@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Yudong-Lu-React-Portfolio/precache-manifest.bb7f3f9d12cbc6a1fc4cba35ca5eb0f6.js"
+  "/Yudong-Lu-React-Portfolio/precache-manifest.631d902216add413e5c9d265d62fe1e2.js"
 );
 
 self.addEventListener('message', (event) => {
